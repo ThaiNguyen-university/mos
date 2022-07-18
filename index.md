@@ -42,7 +42,7 @@
     </div>
 
     <div class="container" id="form_container">
-        <form id="theForm" action="https://script.google.com/macros/s/AKfycbzFs2V5zHDZvmrIlW3CLYwwSunZD4mgbPqreIqWohZ8Zrw5BH9KqjS6ckpApFoHvDlUcA/exec" method="GET" onsubmit="return preventRepeatedSubmission();">
+        <form id="theForm" action="https://script.google.com/macros/s/AKfycbwsNLkFMn-loZRRpoFv0-yql5Fyi0A04cEQqUzCEoBa04XM4DaEJHT6FhwlOUvKAkCGQw/exec" method="GET" onsubmit="return preventRepeatedSubmission();">
             <div class="form-group">
                 <label for="name">Tên ：</label>
                 <input class="form-control" type="text" inputmode="text" name="name" required>
@@ -122,7 +122,7 @@
 
         
 
-</div>
+
             <input type="text" name="formid" value="1" hidden>
             <input type="text" name="thank" value="Cảm ơn bạn một lần nữa vì đã tham gia thử nghiệm này！" hidden>
             <input class="btn btn-info btn-lg" type="submit" value="Gửi kết quả" id="submitBtn">
