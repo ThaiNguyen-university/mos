@@ -118,10 +118,69 @@
             </div>
         </div>
 
-
+<div class="card form-group">
+            <div class="card-header">Câu 3</div>
+            <div class="card-body">
+                <p>
+                    <audio controls preload="none" src="wavs/1.from_scatch_lien_200cau/from_scatch_lien_200_cau_9_checkpoint_2900_waveglow_synthesis.wav
+">
+                        Your browser does not support the audio element.
+                    </audio>
+                </p>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="q3" id="q3_1" value="5" required>
+                    <label class="form-check-label" for="q3_1">５（Rất tốt）</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="q3" id="q3_2" value="4" required>
+                    <label class="form-check-label" for="q3_2">４（Tốt）</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="q3" id="q3_3" value="3" required>
+                    <label class="form-check-label" for="q3_3">３（Bình thường）</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="q3" id="q3_4" value="2" required>
+                    <label class="form-check-label" for="q3_4">２（Không tốt）</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="q3" id="q3_5" value="1" required>
+                    <label class="form-check-label" for="q3_5">１（Tệ）</label>
+                </div>
+            </div>
+        </div>
         
-
-
+        <div class="card form-group">
+            <div class="card-header">Câu 4</div>
+            <div class="card-body">
+                <p>
+                    <audio controls preload="none" src="wavs/1.from_scatch_lien_200cau/from_scatch_lien_200_cau_9_checkpoint_2900_waveglow_synthesis.wav
+">
+                        Your browser does not support the audio element.
+                    </audio>
+                </p>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="q4" id="q4_1" value="5" required>
+                    <label class="form-check-label" for="q4_1">５（Rất tốt）</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="q4" id="q4_2" value="4" required>
+                    <label class="form-check-label" for="q4_2">４（Tốt）</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="q4" id="q4_3" value="3" required>
+                    <label class="form-check-label" for="q4_3">３（Bình thường）</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="q4" id="q4_4" value="2" required>
+                    <label class="form-check-label" for="q4_4">２（Không tốt）</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="q4" id="q4_5" value="1" required>
+                    <label class="form-check-label" for="q4_5">１（Tệ）</label>
+                </div>
+            </div>
+        </div>
             <input type="text" name="formid" value="1" hidden>
             <input type="text" name="thank" value="Cảm ơn bạn một lần nữa vì đã tham gia thử nghiệm này！" hidden>
             <input class="btn btn-info btn-lg" type="submit" value="Gửi kết quả" id="submitBtn">
