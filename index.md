@@ -55,7 +55,7 @@
 
 
         <div class="card form-group">
-            <div class="card-header">Câu 75</div>
+            <div class="card-header">Câu 1</div>
             <div class="card-body">
                 <p>
                     <audio controls preload="none" src="wavs/2.pretrained_english_lien_200cau/pretrained_english_lien_200cau_14_checkpoint_2500_waveglow_synthesis.wav">
@@ -63,31 +63,31 @@
                     </audio>
                 </p>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="q75" id="q75_1" value="5" required>
-                    <label class="form-check-label" for="q75_1">５（Rất tốt）</label>
+                    <input class="form-check-input" type="radio" name="q1" id="q1_1" value="5" required>
+                    <label class="form-check-label" for="q1_1">５（Rất tốt）</label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="q75" id="q75_2" value="4" required>
-                    <label class="form-check-label" for="q75_2">４（Tốt）</label>
+                    <input class="form-check-input" type="radio" name="q1" id="q1_2" value="4" required>
+                    <label class="form-check-label" for="q1_2">４（Tốt）</label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="q75" id="q75_3" value="3" required>
-                    <label class="form-check-label" for="q75_3">３（Bình thường）</label>
+                    <input class="form-check-input" type="radio" name="q1" id="q1_3" value="3" required>
+                    <label class="form-check-label" for="q1_3">３（Bình thường）</label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="q75" id="q75_4" value="2" required>
-                    <label class="form-check-label" for="q75_4">２（Không tốt）</label>
+                    <input class="form-check-input" type="radio" name="q1" id="q1_4" value="2" required>
+                    <label class="form-check-label" for="q1_4">２（Không tốt）</label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="q75" id="q75_5" value="1" required>
-                    <label class="form-check-label" for="q75_5">１（Tệ）</label>
+                    <input class="form-check-input" type="radio" name="q1" id="q1_5" value="1" required>
+                    <label class="form-check-label" for="q1_5">１（Tệ）</label>
                 </div>
             </div>
         </div>
 
 
         <div class="card form-group">
-            <div class="card-header">Câu 25</div>
+            <div class="card-header">Câu 2</div>
             <div class="card-body">
                 <p>
                     <audio controls preload="none" src="wavs/1.from_scatch_lien_200cau/from_scatch_lien_200_cau_9_checkpoint_2900_waveglow_synthesis.wav
@@ -96,24 +96,24 @@
                     </audio>
                 </p>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="q25" id="q25_1" value="5" required>
-                    <label class="form-check-label" for="q25_1">５（Rất tốt）</label>
+                    <input class="form-check-input" type="radio" name="q2" id="q2_1" value="5" required>
+                    <label class="form-check-label" for="q2_1">５（Rất tốt）</label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="q25" id="q25_2" value="4" required>
-                    <label class="form-check-label" for="q25_2">４（Tốt）</label>
+                    <input class="form-check-input" type="radio" name="q2" id="q2_2" value="4" required>
+                    <label class="form-check-label" for="q2_2">４（Tốt）</label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="q25" id="q25_3" value="3" required>
-                    <label class="form-check-label" for="q25_3">３（Bình thường）</label>
+                    <input class="form-check-input" type="radio" name="q2" id="q2_3" value="3" required>
+                    <label class="form-check-label" for="q2_3">３（Bình thường）</label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="q25" id="q25_4" value="2" required>
-                    <label class="form-check-label" for="q25_4">２（Không tốt）</label>
+                    <input class="form-check-input" type="radio" name="q2" id="q2_4" value="2" required>
+                    <label class="form-check-label" for="q2_4">２（Không tốt）</label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="q25" id="q25_5" value="1" required>
-                    <label class="form-check-label" for="q25_5">１（Tệ）</label>
+                    <input class="form-check-input" type="radio" name="q2" id="q2_5" value="1" required>
+                    <label class="form-check-label" for="q2_5">１（Tệ）</label>
                 </div>
             </div>
         </div>
