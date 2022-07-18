@@ -1,5 +1,5 @@
 
-<!doctype html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -42,7 +42,7 @@
     </div>
 
     <div class="container" id="form_container">
-        <form id="theForm" action="https://script.google.com/macros/s/AKfycbwsNLkFMn-loZRRpoFv0-yql5Fyi0A04cEQqUzCEoBa04XM4DaEJHT6FhwlOUvKAkCGQw/exec" method="GET" onsubmit="return preventRepeatedSubmission();">
+        <form id="theForm" action="https://script.google.com/macros/s/AKfycbyfzZzHhS434oRS_hn2uD4EpGaq8VLIBIfEcmE0XTo2IwrSUJ7fING9CoC5mRYaNCqvdQ/exec" method="GET" onsubmit="return preventRepeatedSubmission();">
             <div class="form-group">
                 <label for="name">Tên ：</label>
                 <input class="form-control" type="text" inputmode="text" name="name" required>
