@@ -42,7 +42,7 @@
     </div>
 
     <div class="container" id="form_container">
-        <form id="theForm" action="https://script.google.com/macros/s/AKfycbyhrN2OhMgv961a_Ss3aKRHpwExecsq124YbeyIS8OLnl5FD29xd39X0cV19O1lcbiuhw/exec" method="GET" onsubmit="return preventRepeatedSubmission();">
+        <form id="theForm" action="https://script.google.com/macros/s/AKfycbyRIEa8gMQoccJkppe9qPpBLqFXT_mBVX2h3L4lJpkJwdfURtZHSnd-_ttssNwDF10oYg/exec" method="GET" onsubmit="return preventRepeatedSubmission();">
             <div class="form-group">
                 <label for="name">Tên ：</label>
                 <input class="form-control" type="text" inputmode="text" name="name" required>
