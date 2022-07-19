@@ -63,7 +63,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q118" id="q118_1" value="5" required>
-                    <label class="form-check-label" for="q118_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q118_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q118" id="q118_2" value="4" required>
@@ -93,7 +93,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q55" id="q55_1" value="5" required>
-                    <label class="form-check-label" for="q55_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q55_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q55" id="q55_2" value="4" required>
@@ -123,7 +123,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q119" id="q119_1" value="5" required>
-                    <label class="form-check-label" for="q119_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q119_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q119" id="q119_2" value="4" required>
@@ -153,7 +153,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q2" id="q2_1" value="5" required>
-                    <label class="form-check-label" for="q2_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q2_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q2" id="q2_2" value="4" required>
@@ -183,7 +183,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q37" id="q37_1" value="5" required>
-                    <label class="form-check-label" for="q37_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q37_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q37" id="q37_2" value="4" required>
@@ -213,7 +213,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q44" id="q44_1" value="5" required>
-                    <label class="form-check-label" for="q44_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q44_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q44" id="q44_2" value="4" required>
@@ -243,7 +243,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q24" id="q24_1" value="5" required>
-                    <label class="form-check-label" for="q24_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q24_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q24" id="q24_2" value="4" required>
@@ -273,7 +273,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q22" id="q22_1" value="5" required>
-                    <label class="form-check-label" for="q22_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q22_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q22" id="q22_2" value="4" required>
@@ -303,7 +303,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q40" id="q40_1" value="5" required>
-                    <label class="form-check-label" for="q40_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q40_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q40" id="q40_2" value="4" required>
@@ -333,7 +333,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q79" id="q79_1" value="5" required>
-                    <label class="form-check-label" for="q79_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q79_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q79" id="q79_2" value="4" required>
@@ -363,7 +363,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q54" id="q54_1" value="5" required>
-                    <label class="form-check-label" for="q54_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q54_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q54" id="q54_2" value="4" required>
@@ -393,7 +393,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q91" id="q91_1" value="5" required>
-                    <label class="form-check-label" for="q91_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q91_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q91" id="q91_2" value="4" required>
@@ -423,7 +423,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q10" id="q10_1" value="5" required>
-                    <label class="form-check-label" for="q10_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q10_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q10" id="q10_2" value="4" required>
@@ -453,7 +453,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q56" id="q56_1" value="5" required>
-                    <label class="form-check-label" for="q56_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q56_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q56" id="q56_2" value="4" required>
@@ -483,7 +483,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q39" id="q39_1" value="5" required>
-                    <label class="form-check-label" for="q39_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q39_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q39" id="q39_2" value="4" required>
@@ -513,7 +513,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q102" id="q102_1" value="5" required>
-                    <label class="form-check-label" for="q102_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q102_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q102" id="q102_2" value="4" required>
@@ -543,7 +543,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q100" id="q100_1" value="5" required>
-                    <label class="form-check-label" for="q100_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q100_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q100" id="q100_2" value="4" required>
@@ -573,7 +573,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q83" id="q83_1" value="5" required>
-                    <label class="form-check-label" for="q83_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q83_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q83" id="q83_2" value="4" required>
@@ -603,7 +603,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q46" id="q46_1" value="5" required>
-                    <label class="form-check-label" for="q46_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q46_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q46" id="q46_2" value="4" required>
@@ -633,7 +633,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q72" id="q72_1" value="5" required>
-                    <label class="form-check-label" for="q72_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q72_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q72" id="q72_2" value="4" required>
@@ -663,7 +663,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q86" id="q86_1" value="5" required>
-                    <label class="form-check-label" for="q86_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q86_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q86" id="q86_2" value="4" required>
@@ -693,7 +693,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q85" id="q85_1" value="5" required>
-                    <label class="form-check-label" for="q85_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q85_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q85" id="q85_2" value="4" required>
@@ -723,7 +723,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q60" id="q60_1" value="5" required>
-                    <label class="form-check-label" for="q60_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q60_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q60" id="q60_2" value="4" required>
@@ -753,7 +753,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q108" id="q108_1" value="5" required>
-                    <label class="form-check-label" for="q108_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q108_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q108" id="q108_2" value="4" required>
@@ -783,7 +783,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q67" id="q67_1" value="5" required>
-                    <label class="form-check-label" for="q67_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q67_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q67" id="q67_2" value="4" required>
@@ -813,7 +813,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q76" id="q76_1" value="5" required>
-                    <label class="form-check-label" for="q76_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q76_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q76" id="q76_2" value="4" required>
@@ -843,7 +843,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q41" id="q41_1" value="5" required>
-                    <label class="form-check-label" for="q41_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q41_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q41" id="q41_2" value="4" required>
@@ -873,7 +873,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q29" id="q29_1" value="5" required>
-                    <label class="form-check-label" for="q29_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q29_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q29" id="q29_2" value="4" required>
@@ -903,7 +903,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q117" id="q117_1" value="5" required>
-                    <label class="form-check-label" for="q117_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q117_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q117" id="q117_2" value="4" required>
@@ -933,7 +933,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q92" id="q92_1" value="5" required>
-                    <label class="form-check-label" for="q92_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q92_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q92" id="q92_2" value="4" required>
@@ -963,7 +963,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q14" id="q14_1" value="5" required>
-                    <label class="form-check-label" for="q14_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q14_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q14" id="q14_2" value="4" required>
@@ -993,7 +993,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q7" id="q7_1" value="5" required>
-                    <label class="form-check-label" for="q7_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q7_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q7" id="q7_2" value="4" required>
@@ -1023,7 +1023,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q87" id="q87_1" value="5" required>
-                    <label class="form-check-label" for="q87_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q87_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q87" id="q87_2" value="4" required>
@@ -1053,7 +1053,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q25" id="q25_1" value="5" required>
-                    <label class="form-check-label" for="q25_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q25_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q25" id="q25_2" value="4" required>
@@ -1083,7 +1083,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q59" id="q59_1" value="5" required>
-                    <label class="form-check-label" for="q59_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q59_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q59" id="q59_2" value="4" required>
@@ -1113,7 +1113,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q13" id="q13_1" value="5" required>
-                    <label class="form-check-label" for="q13_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q13_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q13" id="q13_2" value="4" required>
@@ -1143,7 +1143,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q27" id="q27_1" value="5" required>
-                    <label class="form-check-label" for="q27_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q27_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q27" id="q27_2" value="4" required>
@@ -1173,7 +1173,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q71" id="q71_1" value="5" required>
-                    <label class="form-check-label" for="q71_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q71_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q71" id="q71_2" value="4" required>
@@ -1203,7 +1203,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q66" id="q66_1" value="5" required>
-                    <label class="form-check-label" for="q66_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q66_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q66" id="q66_2" value="4" required>
@@ -1233,7 +1233,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q16" id="q16_1" value="5" required>
-                    <label class="form-check-label" for="q16_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q16_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q16" id="q16_2" value="4" required>
@@ -1263,7 +1263,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q81" id="q81_1" value="5" required>
-                    <label class="form-check-label" for="q81_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q81_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q81" id="q81_2" value="4" required>
@@ -1293,7 +1293,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q36" id="q36_1" value="5" required>
-                    <label class="form-check-label" for="q36_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q36_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q36" id="q36_2" value="4" required>
@@ -1323,7 +1323,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q63" id="q63_1" value="5" required>
-                    <label class="form-check-label" for="q63_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q63_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q63" id="q63_2" value="4" required>
@@ -1353,7 +1353,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q70" id="q70_1" value="5" required>
-                    <label class="form-check-label" for="q70_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q70_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q70" id="q70_2" value="4" required>
@@ -1383,7 +1383,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q32" id="q32_1" value="5" required>
-                    <label class="form-check-label" for="q32_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q32_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q32" id="q32_2" value="4" required>
@@ -1413,7 +1413,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q61" id="q61_1" value="5" required>
-                    <label class="form-check-label" for="q61_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q61_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q61" id="q61_2" value="4" required>
@@ -1443,7 +1443,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q9" id="q9_1" value="5" required>
-                    <label class="form-check-label" for="q9_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q9_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q9" id="q9_2" value="4" required>
@@ -1473,7 +1473,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q74" id="q74_1" value="5" required>
-                    <label class="form-check-label" for="q74_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q74_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q74" id="q74_2" value="4" required>
@@ -1503,7 +1503,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q68" id="q68_1" value="5" required>
-                    <label class="form-check-label" for="q68_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q68_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q68" id="q68_2" value="4" required>
@@ -1533,7 +1533,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q31" id="q31_1" value="5" required>
-                    <label class="form-check-label" for="q31_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q31_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q31" id="q31_2" value="4" required>
@@ -1563,7 +1563,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q12" id="q12_1" value="5" required>
-                    <label class="form-check-label" for="q12_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q12_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q12" id="q12_2" value="4" required>
@@ -1593,7 +1593,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q106" id="q106_1" value="5" required>
-                    <label class="form-check-label" for="q106_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q106_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q106" id="q106_2" value="4" required>
@@ -1623,7 +1623,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q33" id="q33_1" value="5" required>
-                    <label class="form-check-label" for="q33_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q33_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q33" id="q33_2" value="4" required>
@@ -1653,7 +1653,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q113" id="q113_1" value="5" required>
-                    <label class="form-check-label" for="q113_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q113_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q113" id="q113_2" value="4" required>
@@ -1683,7 +1683,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q50" id="q50_1" value="5" required>
-                    <label class="form-check-label" for="q50_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q50_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q50" id="q50_2" value="4" required>
@@ -1713,7 +1713,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q62" id="q62_1" value="5" required>
-                    <label class="form-check-label" for="q62_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q62_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q62" id="q62_2" value="4" required>
@@ -1743,7 +1743,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q77" id="q77_1" value="5" required>
-                    <label class="form-check-label" for="q77_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q77_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q77" id="q77_2" value="4" required>
@@ -1773,7 +1773,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q80" id="q80_1" value="5" required>
-                    <label class="form-check-label" for="q80_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q80_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q80" id="q80_2" value="4" required>
@@ -1803,7 +1803,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q38" id="q38_1" value="5" required>
-                    <label class="form-check-label" for="q38_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q38_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q38" id="q38_2" value="4" required>
@@ -1833,7 +1833,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q3" id="q3_1" value="5" required>
-                    <label class="form-check-label" for="q3_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q3_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q3" id="q3_2" value="4" required>
@@ -1863,7 +1863,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q96" id="q96_1" value="5" required>
-                    <label class="form-check-label" for="q96_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q96_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q96" id="q96_2" value="4" required>
@@ -1893,7 +1893,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q52" id="q52_1" value="5" required>
-                    <label class="form-check-label" for="q52_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q52_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q52" id="q52_2" value="4" required>
@@ -1923,7 +1923,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q5" id="q5_1" value="5" required>
-                    <label class="form-check-label" for="q5_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q5_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q5" id="q5_2" value="4" required>
@@ -1953,7 +1953,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q4" id="q4_1" value="5" required>
-                    <label class="form-check-label" for="q4_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q4_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q4" id="q4_2" value="4" required>
@@ -1983,7 +1983,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q114" id="q114_1" value="5" required>
-                    <label class="form-check-label" for="q114_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q114_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q114" id="q114_2" value="4" required>
@@ -2013,7 +2013,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q78" id="q78_1" value="5" required>
-                    <label class="form-check-label" for="q78_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q78_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q78" id="q78_2" value="4" required>
@@ -2043,7 +2043,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q75" id="q75_1" value="5" required>
-                    <label class="form-check-label" for="q75_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q75_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q75" id="q75_2" value="4" required>
@@ -2073,7 +2073,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q11" id="q11_1" value="5" required>
-                    <label class="form-check-label" for="q11_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q11_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q11" id="q11_2" value="4" required>
@@ -2103,7 +2103,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q23" id="q23_1" value="5" required>
-                    <label class="form-check-label" for="q23_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q23_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q23" id="q23_2" value="4" required>
@@ -2133,7 +2133,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q82" id="q82_1" value="5" required>
-                    <label class="form-check-label" for="q82_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q82_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q82" id="q82_2" value="4" required>
@@ -2163,7 +2163,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q69" id="q69_1" value="5" required>
-                    <label class="form-check-label" for="q69_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q69_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q69" id="q69_2" value="4" required>
@@ -2193,7 +2193,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q98" id="q98_1" value="5" required>
-                    <label class="form-check-label" for="q98_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q98_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q98" id="q98_2" value="4" required>
@@ -2223,7 +2223,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q49" id="q49_1" value="5" required>
-                    <label class="form-check-label" for="q49_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q49_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q49" id="q49_2" value="4" required>
@@ -2253,7 +2253,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q48" id="q48_1" value="5" required>
-                    <label class="form-check-label" for="q48_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q48_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q48" id="q48_2" value="4" required>
@@ -2283,7 +2283,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q26" id="q26_1" value="5" required>
-                    <label class="form-check-label" for="q26_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q26_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q26" id="q26_2" value="4" required>
@@ -2313,7 +2313,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q18" id="q18_1" value="5" required>
-                    <label class="form-check-label" for="q18_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q18_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q18" id="q18_2" value="4" required>
@@ -2343,7 +2343,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q42" id="q42_1" value="5" required>
-                    <label class="form-check-label" for="q42_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q42_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q42" id="q42_2" value="4" required>
@@ -2373,7 +2373,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q107" id="q107_1" value="5" required>
-                    <label class="form-check-label" for="q107_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q107_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q107" id="q107_2" value="4" required>
@@ -2403,7 +2403,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q116" id="q116_1" value="5" required>
-                    <label class="form-check-label" for="q116_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q116_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q116" id="q116_2" value="4" required>
@@ -2433,7 +2433,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q21" id="q21_1" value="5" required>
-                    <label class="form-check-label" for="q21_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q21_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q21" id="q21_2" value="4" required>
@@ -2463,7 +2463,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q110" id="q110_1" value="5" required>
-                    <label class="form-check-label" for="q110_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q110_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q110" id="q110_2" value="4" required>
@@ -2493,7 +2493,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q120" id="q120_1" value="5" required>
-                    <label class="form-check-label" for="q120_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q120_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q120" id="q120_2" value="4" required>
@@ -2523,7 +2523,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q64" id="q64_1" value="5" required>
-                    <label class="form-check-label" for="q64_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q64_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q64" id="q64_2" value="4" required>
@@ -2553,7 +2553,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q73" id="q73_1" value="5" required>
-                    <label class="form-check-label" for="q73_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q73_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q73" id="q73_2" value="4" required>
@@ -2583,7 +2583,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q101" id="q101_1" value="5" required>
-                    <label class="form-check-label" for="q101_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q101_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q101" id="q101_2" value="4" required>
@@ -2613,7 +2613,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q95" id="q95_1" value="5" required>
-                    <label class="form-check-label" for="q95_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q95_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q95" id="q95_2" value="4" required>
@@ -2643,7 +2643,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q15" id="q15_1" value="5" required>
-                    <label class="form-check-label" for="q15_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q15_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q15" id="q15_2" value="4" required>
@@ -2673,7 +2673,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q94" id="q94_1" value="5" required>
-                    <label class="form-check-label" for="q94_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q94_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q94" id="q94_2" value="4" required>
@@ -2703,7 +2703,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q19" id="q19_1" value="5" required>
-                    <label class="form-check-label" for="q19_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q19_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q19" id="q19_2" value="4" required>
@@ -2733,7 +2733,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q65" id="q65_1" value="5" required>
-                    <label class="form-check-label" for="q65_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q65_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q65" id="q65_2" value="4" required>
@@ -2763,7 +2763,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q35" id="q35_1" value="5" required>
-                    <label class="form-check-label" for="q35_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q35_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q35" id="q35_2" value="4" required>
@@ -2793,7 +2793,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q103" id="q103_1" value="5" required>
-                    <label class="form-check-label" for="q103_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q103_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q103" id="q103_2" value="4" required>
@@ -2823,7 +2823,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q20" id="q20_1" value="5" required>
-                    <label class="form-check-label" for="q20_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q20_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q20" id="q20_2" value="4" required>
@@ -2853,7 +2853,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q112" id="q112_1" value="5" required>
-                    <label class="form-check-label" for="q112_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q112_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q112" id="q112_2" value="4" required>
@@ -2883,7 +2883,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q53" id="q53_1" value="5" required>
-                    <label class="form-check-label" for="q53_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q53_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q53" id="q53_2" value="4" required>
@@ -2913,7 +2913,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q34" id="q34_1" value="5" required>
-                    <label class="form-check-label" for="q34_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q34_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q34" id="q34_2" value="4" required>
@@ -2943,7 +2943,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q17" id="q17_1" value="5" required>
-                    <label class="form-check-label" for="q17_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q17_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q17" id="q17_2" value="4" required>
@@ -2973,7 +2973,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q97" id="q97_1" value="5" required>
-                    <label class="form-check-label" for="q97_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q97_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q97" id="q97_2" value="4" required>
@@ -3003,7 +3003,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q28" id="q28_1" value="5" required>
-                    <label class="form-check-label" for="q28_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q28_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q28" id="q28_2" value="4" required>
@@ -3033,7 +3033,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q51" id="q51_1" value="5" required>
-                    <label class="form-check-label" for="q51_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q51_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q51" id="q51_2" value="4" required>
@@ -3063,7 +3063,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q115" id="q115_1" value="5" required>
-                    <label class="form-check-label" for="q115_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q115_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q115" id="q115_2" value="4" required>
@@ -3093,7 +3093,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q89" id="q89_1" value="5" required>
-                    <label class="form-check-label" for="q89_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q89_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q89" id="q89_2" value="4" required>
@@ -3123,7 +3123,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q43" id="q43_1" value="5" required>
-                    <label class="form-check-label" for="q43_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q43_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q43" id="q43_2" value="4" required>
@@ -3153,7 +3153,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q109" id="q109_1" value="5" required>
-                    <label class="form-check-label" for="q109_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q109_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q109" id="q109_2" value="4" required>
@@ -3183,7 +3183,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q99" id="q99_1" value="5" required>
-                    <label class="form-check-label" for="q99_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q99_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q99" id="q99_2" value="4" required>
@@ -3213,7 +3213,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q47" id="q47_1" value="5" required>
-                    <label class="form-check-label" for="q47_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q47_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q47" id="q47_2" value="4" required>
@@ -3243,7 +3243,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q93" id="q93_1" value="5" required>
-                    <label class="form-check-label" for="q93_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q93_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q93" id="q93_2" value="4" required>
@@ -3273,7 +3273,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q6" id="q6_1" value="5" required>
-                    <label class="form-check-label" for="q6_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q6_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q6" id="q6_2" value="4" required>
@@ -3303,7 +3303,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q58" id="q58_1" value="5" required>
-                    <label class="form-check-label" for="q58_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q58_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q58" id="q58_2" value="4" required>
@@ -3333,7 +3333,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q90" id="q90_1" value="5" required>
-                    <label class="form-check-label" for="q90_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q90_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q90" id="q90_2" value="4" required>
@@ -3363,7 +3363,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q57" id="q57_1" value="5" required>
-                    <label class="form-check-label" for="q57_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q57_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q57" id="q57_2" value="4" required>
@@ -3393,7 +3393,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q30" id="q30_1" value="5" required>
-                    <label class="form-check-label" for="q30_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q30_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q30" id="q30_2" value="4" required>
@@ -3423,7 +3423,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q1" id="q1_1" value="5" required>
-                    <label class="form-check-label" for="q1_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q1_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q1" id="q1_2" value="4" required>
@@ -3453,7 +3453,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q111" id="q111_1" value="5" required>
-                    <label class="form-check-label" for="q111_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q111_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q111" id="q111_2" value="4" required>
@@ -3483,7 +3483,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q84" id="q84_1" value="5" required>
-                    <label class="form-check-label" for="q84_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q84_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q84" id="q84_2" value="4" required>
@@ -3513,7 +3513,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q88" id="q88_1" value="5" required>
-                    <label class="form-check-label" for="q88_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q88_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q88" id="q88_2" value="4" required>
@@ -3543,7 +3543,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q8" id="q8_1" value="5" required>
-                    <label class="form-check-label" for="q8_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q8_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q8" id="q8_2" value="4" required>
@@ -3573,7 +3573,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q104" id="q104_1" value="5" required>
-                    <label class="form-check-label" for="q104_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q104_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q104" id="q104_2" value="4" required>
@@ -3603,7 +3603,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q45" id="q45_1" value="5" required>
-                    <label class="form-check-label" for="q45_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q45_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q45" id="q45_2" value="4" required>
@@ -3633,7 +3633,7 @@
                 </p>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q105" id="q105_1" value="5" required>
-                    <label class="form-check-label" for="q105_1">5（Tất tốt）</label>
+                    <label class="form-check-label" for="q105_1">5（Rất tốt）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q105" id="q105_2" value="4" required>
