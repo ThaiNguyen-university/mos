@@ -71,7 +71,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q118" id="q118_3" value="3" required>
-                    <label class="form-check-label" for="q118_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q118_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q118" id="q118_4" value="2" required>
@@ -101,7 +101,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q55" id="q55_3" value="3" required>
-                    <label class="form-check-label" for="q55_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q55_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q55" id="q55_4" value="2" required>
@@ -131,7 +131,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q119" id="q119_3" value="3" required>
-                    <label class="form-check-label" for="q119_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q119_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q119" id="q119_4" value="2" required>
@@ -161,7 +161,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q2" id="q2_3" value="3" required>
-                    <label class="form-check-label" for="q2_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q2_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q2" id="q2_4" value="2" required>
@@ -191,7 +191,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q37" id="q37_3" value="3" required>
-                    <label class="form-check-label" for="q37_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q37_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q37" id="q37_4" value="2" required>
@@ -221,7 +221,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q44" id="q44_3" value="3" required>
-                    <label class="form-check-label" for="q44_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q44_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q44" id="q44_4" value="2" required>
@@ -251,7 +251,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q24" id="q24_3" value="3" required>
-                    <label class="form-check-label" for="q24_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q24_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q24" id="q24_4" value="2" required>
@@ -281,7 +281,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q22" id="q22_3" value="3" required>
-                    <label class="form-check-label" for="q22_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q22_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q22" id="q22_4" value="2" required>
@@ -311,7 +311,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q40" id="q40_3" value="3" required>
-                    <label class="form-check-label" for="q40_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q40_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q40" id="q40_4" value="2" required>
@@ -341,7 +341,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q79" id="q79_3" value="3" required>
-                    <label class="form-check-label" for="q79_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q79_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q79" id="q79_4" value="2" required>
@@ -371,7 +371,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q54" id="q54_3" value="3" required>
-                    <label class="form-check-label" for="q54_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q54_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q54" id="q54_4" value="2" required>
@@ -401,7 +401,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q91" id="q91_3" value="3" required>
-                    <label class="form-check-label" for="q91_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q91_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q91" id="q91_4" value="2" required>
@@ -431,7 +431,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q10" id="q10_3" value="3" required>
-                    <label class="form-check-label" for="q10_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q10_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q10" id="q10_4" value="2" required>
@@ -461,7 +461,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q56" id="q56_3" value="3" required>
-                    <label class="form-check-label" for="q56_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q56_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q56" id="q56_4" value="2" required>
@@ -491,7 +491,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q39" id="q39_3" value="3" required>
-                    <label class="form-check-label" for="q39_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q39_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q39" id="q39_4" value="2" required>
@@ -521,7 +521,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q102" id="q102_3" value="3" required>
-                    <label class="form-check-label" for="q102_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q102_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q102" id="q102_4" value="2" required>
@@ -551,7 +551,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q100" id="q100_3" value="3" required>
-                    <label class="form-check-label" for="q100_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q100_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q100" id="q100_4" value="2" required>
@@ -581,7 +581,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q83" id="q83_3" value="3" required>
-                    <label class="form-check-label" for="q83_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q83_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q83" id="q83_4" value="2" required>
@@ -611,7 +611,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q46" id="q46_3" value="3" required>
-                    <label class="form-check-label" for="q46_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q46_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q46" id="q46_4" value="2" required>
@@ -641,7 +641,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q72" id="q72_3" value="3" required>
-                    <label class="form-check-label" for="q72_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q72_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q72" id="q72_4" value="2" required>
@@ -671,7 +671,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q86" id="q86_3" value="3" required>
-                    <label class="form-check-label" for="q86_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q86_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q86" id="q86_4" value="2" required>
@@ -701,7 +701,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q85" id="q85_3" value="3" required>
-                    <label class="form-check-label" for="q85_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q85_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q85" id="q85_4" value="2" required>
@@ -731,7 +731,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q60" id="q60_3" value="3" required>
-                    <label class="form-check-label" for="q60_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q60_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q60" id="q60_4" value="2" required>
@@ -761,7 +761,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q108" id="q108_3" value="3" required>
-                    <label class="form-check-label" for="q108_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q108_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q108" id="q108_4" value="2" required>
@@ -791,7 +791,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q67" id="q67_3" value="3" required>
-                    <label class="form-check-label" for="q67_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q67_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q67" id="q67_4" value="2" required>
@@ -821,7 +821,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q76" id="q76_3" value="3" required>
-                    <label class="form-check-label" for="q76_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q76_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q76" id="q76_4" value="2" required>
@@ -851,7 +851,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q41" id="q41_3" value="3" required>
-                    <label class="form-check-label" for="q41_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q41_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q41" id="q41_4" value="2" required>
@@ -881,7 +881,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q29" id="q29_3" value="3" required>
-                    <label class="form-check-label" for="q29_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q29_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q29" id="q29_4" value="2" required>
@@ -911,7 +911,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q117" id="q117_3" value="3" required>
-                    <label class="form-check-label" for="q117_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q117_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q117" id="q117_4" value="2" required>
@@ -941,7 +941,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q92" id="q92_3" value="3" required>
-                    <label class="form-check-label" for="q92_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q92_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q92" id="q92_4" value="2" required>
@@ -971,7 +971,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q14" id="q14_3" value="3" required>
-                    <label class="form-check-label" for="q14_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q14_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q14" id="q14_4" value="2" required>
@@ -1001,7 +1001,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q7" id="q7_3" value="3" required>
-                    <label class="form-check-label" for="q7_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q7_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q7" id="q7_4" value="2" required>
@@ -1031,7 +1031,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q87" id="q87_3" value="3" required>
-                    <label class="form-check-label" for="q87_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q87_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q87" id="q87_4" value="2" required>
@@ -1061,7 +1061,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q25" id="q25_3" value="3" required>
-                    <label class="form-check-label" for="q25_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q25_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q25" id="q25_4" value="2" required>
@@ -1091,7 +1091,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q59" id="q59_3" value="3" required>
-                    <label class="form-check-label" for="q59_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q59_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q59" id="q59_4" value="2" required>
@@ -1121,7 +1121,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q13" id="q13_3" value="3" required>
-                    <label class="form-check-label" for="q13_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q13_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q13" id="q13_4" value="2" required>
@@ -1151,7 +1151,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q27" id="q27_3" value="3" required>
-                    <label class="form-check-label" for="q27_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q27_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q27" id="q27_4" value="2" required>
@@ -1181,7 +1181,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q71" id="q71_3" value="3" required>
-                    <label class="form-check-label" for="q71_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q71_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q71" id="q71_4" value="2" required>
@@ -1211,7 +1211,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q66" id="q66_3" value="3" required>
-                    <label class="form-check-label" for="q66_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q66_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q66" id="q66_4" value="2" required>
@@ -1241,7 +1241,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q16" id="q16_3" value="3" required>
-                    <label class="form-check-label" for="q16_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q16_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q16" id="q16_4" value="2" required>
@@ -1271,7 +1271,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q81" id="q81_3" value="3" required>
-                    <label class="form-check-label" for="q81_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q81_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q81" id="q81_4" value="2" required>
@@ -1301,7 +1301,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q36" id="q36_3" value="3" required>
-                    <label class="form-check-label" for="q36_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q36_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q36" id="q36_4" value="2" required>
@@ -1331,7 +1331,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q63" id="q63_3" value="3" required>
-                    <label class="form-check-label" for="q63_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q63_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q63" id="q63_4" value="2" required>
@@ -1361,7 +1361,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q70" id="q70_3" value="3" required>
-                    <label class="form-check-label" for="q70_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q70_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q70" id="q70_4" value="2" required>
@@ -1391,7 +1391,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q32" id="q32_3" value="3" required>
-                    <label class="form-check-label" for="q32_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q32_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q32" id="q32_4" value="2" required>
@@ -1421,7 +1421,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q61" id="q61_3" value="3" required>
-                    <label class="form-check-label" for="q61_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q61_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q61" id="q61_4" value="2" required>
@@ -1451,7 +1451,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q9" id="q9_3" value="3" required>
-                    <label class="form-check-label" for="q9_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q9_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q9" id="q9_4" value="2" required>
@@ -1481,7 +1481,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q74" id="q74_3" value="3" required>
-                    <label class="form-check-label" for="q74_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q74_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q74" id="q74_4" value="2" required>
@@ -1511,7 +1511,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q68" id="q68_3" value="3" required>
-                    <label class="form-check-label" for="q68_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q68_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q68" id="q68_4" value="2" required>
@@ -1541,7 +1541,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q31" id="q31_3" value="3" required>
-                    <label class="form-check-label" for="q31_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q31_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q31" id="q31_4" value="2" required>
@@ -1571,7 +1571,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q12" id="q12_3" value="3" required>
-                    <label class="form-check-label" for="q12_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q12_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q12" id="q12_4" value="2" required>
@@ -1601,7 +1601,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q106" id="q106_3" value="3" required>
-                    <label class="form-check-label" for="q106_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q106_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q106" id="q106_4" value="2" required>
@@ -1631,7 +1631,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q33" id="q33_3" value="3" required>
-                    <label class="form-check-label" for="q33_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q33_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q33" id="q33_4" value="2" required>
@@ -1661,7 +1661,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q113" id="q113_3" value="3" required>
-                    <label class="form-check-label" for="q113_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q113_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q113" id="q113_4" value="2" required>
@@ -1691,7 +1691,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q50" id="q50_3" value="3" required>
-                    <label class="form-check-label" for="q50_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q50_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q50" id="q50_4" value="2" required>
@@ -1721,7 +1721,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q62" id="q62_3" value="3" required>
-                    <label class="form-check-label" for="q62_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q62_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q62" id="q62_4" value="2" required>
@@ -1751,7 +1751,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q77" id="q77_3" value="3" required>
-                    <label class="form-check-label" for="q77_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q77_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q77" id="q77_4" value="2" required>
@@ -1781,7 +1781,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q80" id="q80_3" value="3" required>
-                    <label class="form-check-label" for="q80_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q80_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q80" id="q80_4" value="2" required>
@@ -1811,7 +1811,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q38" id="q38_3" value="3" required>
-                    <label class="form-check-label" for="q38_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q38_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q38" id="q38_4" value="2" required>
@@ -1841,7 +1841,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q3" id="q3_3" value="3" required>
-                    <label class="form-check-label" for="q3_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q3_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q3" id="q3_4" value="2" required>
@@ -1871,7 +1871,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q96" id="q96_3" value="3" required>
-                    <label class="form-check-label" for="q96_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q96_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q96" id="q96_4" value="2" required>
@@ -1901,7 +1901,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q52" id="q52_3" value="3" required>
-                    <label class="form-check-label" for="q52_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q52_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q52" id="q52_4" value="2" required>
@@ -1931,7 +1931,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q5" id="q5_3" value="3" required>
-                    <label class="form-check-label" for="q5_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q5_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q5" id="q5_4" value="2" required>
@@ -1961,7 +1961,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q4" id="q4_3" value="3" required>
-                    <label class="form-check-label" for="q4_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q4_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q4" id="q4_4" value="2" required>
@@ -1991,7 +1991,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q114" id="q114_3" value="3" required>
-                    <label class="form-check-label" for="q114_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q114_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q114" id="q114_4" value="2" required>
@@ -2021,7 +2021,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q78" id="q78_3" value="3" required>
-                    <label class="form-check-label" for="q78_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q78_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q78" id="q78_4" value="2" required>
@@ -2051,7 +2051,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q75" id="q75_3" value="3" required>
-                    <label class="form-check-label" for="q75_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q75_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q75" id="q75_4" value="2" required>
@@ -2081,7 +2081,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q11" id="q11_3" value="3" required>
-                    <label class="form-check-label" for="q11_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q11_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q11" id="q11_4" value="2" required>
@@ -2111,7 +2111,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q23" id="q23_3" value="3" required>
-                    <label class="form-check-label" for="q23_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q23_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q23" id="q23_4" value="2" required>
@@ -2141,7 +2141,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q82" id="q82_3" value="3" required>
-                    <label class="form-check-label" for="q82_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q82_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q82" id="q82_4" value="2" required>
@@ -2171,7 +2171,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q69" id="q69_3" value="3" required>
-                    <label class="form-check-label" for="q69_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q69_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q69" id="q69_4" value="2" required>
@@ -2201,7 +2201,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q98" id="q98_3" value="3" required>
-                    <label class="form-check-label" for="q98_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q98_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q98" id="q98_4" value="2" required>
@@ -2231,7 +2231,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q49" id="q49_3" value="3" required>
-                    <label class="form-check-label" for="q49_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q49_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q49" id="q49_4" value="2" required>
@@ -2261,7 +2261,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q48" id="q48_3" value="3" required>
-                    <label class="form-check-label" for="q48_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q48_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q48" id="q48_4" value="2" required>
@@ -2291,7 +2291,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q26" id="q26_3" value="3" required>
-                    <label class="form-check-label" for="q26_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q26_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q26" id="q26_4" value="2" required>
@@ -2321,7 +2321,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q18" id="q18_3" value="3" required>
-                    <label class="form-check-label" for="q18_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q18_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q18" id="q18_4" value="2" required>
@@ -2351,7 +2351,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q42" id="q42_3" value="3" required>
-                    <label class="form-check-label" for="q42_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q42_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q42" id="q42_4" value="2" required>
@@ -2381,7 +2381,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q107" id="q107_3" value="3" required>
-                    <label class="form-check-label" for="q107_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q107_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q107" id="q107_4" value="2" required>
@@ -2411,7 +2411,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q116" id="q116_3" value="3" required>
-                    <label class="form-check-label" for="q116_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q116_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q116" id="q116_4" value="2" required>
@@ -2441,7 +2441,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q21" id="q21_3" value="3" required>
-                    <label class="form-check-label" for="q21_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q21_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q21" id="q21_4" value="2" required>
@@ -2471,7 +2471,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q110" id="q110_3" value="3" required>
-                    <label class="form-check-label" for="q110_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q110_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q110" id="q110_4" value="2" required>
@@ -2501,7 +2501,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q120" id="q120_3" value="3" required>
-                    <label class="form-check-label" for="q120_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q120_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q120" id="q120_4" value="2" required>
@@ -2531,7 +2531,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q64" id="q64_3" value="3" required>
-                    <label class="form-check-label" for="q64_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q64_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q64" id="q64_4" value="2" required>
@@ -2561,7 +2561,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q73" id="q73_3" value="3" required>
-                    <label class="form-check-label" for="q73_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q73_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q73" id="q73_4" value="2" required>
@@ -2591,7 +2591,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q101" id="q101_3" value="3" required>
-                    <label class="form-check-label" for="q101_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q101_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q101" id="q101_4" value="2" required>
@@ -2621,7 +2621,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q95" id="q95_3" value="3" required>
-                    <label class="form-check-label" for="q95_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q95_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q95" id="q95_4" value="2" required>
@@ -2651,7 +2651,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q15" id="q15_3" value="3" required>
-                    <label class="form-check-label" for="q15_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q15_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q15" id="q15_4" value="2" required>
@@ -2681,7 +2681,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q94" id="q94_3" value="3" required>
-                    <label class="form-check-label" for="q94_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q94_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q94" id="q94_4" value="2" required>
@@ -2711,7 +2711,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q19" id="q19_3" value="3" required>
-                    <label class="form-check-label" for="q19_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q19_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q19" id="q19_4" value="2" required>
@@ -2741,7 +2741,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q65" id="q65_3" value="3" required>
-                    <label class="form-check-label" for="q65_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q65_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q65" id="q65_4" value="2" required>
@@ -2771,7 +2771,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q35" id="q35_3" value="3" required>
-                    <label class="form-check-label" for="q35_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q35_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q35" id="q35_4" value="2" required>
@@ -2801,7 +2801,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q103" id="q103_3" value="3" required>
-                    <label class="form-check-label" for="q103_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q103_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q103" id="q103_4" value="2" required>
@@ -2831,7 +2831,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q20" id="q20_3" value="3" required>
-                    <label class="form-check-label" for="q20_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q20_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q20" id="q20_4" value="2" required>
@@ -2861,7 +2861,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q112" id="q112_3" value="3" required>
-                    <label class="form-check-label" for="q112_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q112_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q112" id="q112_4" value="2" required>
@@ -2891,7 +2891,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q53" id="q53_3" value="3" required>
-                    <label class="form-check-label" for="q53_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q53_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q53" id="q53_4" value="2" required>
@@ -2921,7 +2921,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q34" id="q34_3" value="3" required>
-                    <label class="form-check-label" for="q34_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q34_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q34" id="q34_4" value="2" required>
@@ -2951,7 +2951,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q17" id="q17_3" value="3" required>
-                    <label class="form-check-label" for="q17_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q17_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q17" id="q17_4" value="2" required>
@@ -2981,7 +2981,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q97" id="q97_3" value="3" required>
-                    <label class="form-check-label" for="q97_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q97_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q97" id="q97_4" value="2" required>
@@ -3011,7 +3011,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q28" id="q28_3" value="3" required>
-                    <label class="form-check-label" for="q28_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q28_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q28" id="q28_4" value="2" required>
@@ -3041,7 +3041,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q51" id="q51_3" value="3" required>
-                    <label class="form-check-label" for="q51_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q51_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q51" id="q51_4" value="2" required>
@@ -3071,7 +3071,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q115" id="q115_3" value="3" required>
-                    <label class="form-check-label" for="q115_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q115_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q115" id="q115_4" value="2" required>
@@ -3101,7 +3101,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q89" id="q89_3" value="3" required>
-                    <label class="form-check-label" for="q89_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q89_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q89" id="q89_4" value="2" required>
@@ -3131,7 +3131,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q43" id="q43_3" value="3" required>
-                    <label class="form-check-label" for="q43_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q43_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q43" id="q43_4" value="2" required>
@@ -3161,7 +3161,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q109" id="q109_3" value="3" required>
-                    <label class="form-check-label" for="q109_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q109_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q109" id="q109_4" value="2" required>
@@ -3191,7 +3191,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q99" id="q99_3" value="3" required>
-                    <label class="form-check-label" for="q99_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q99_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q99" id="q99_4" value="2" required>
@@ -3221,7 +3221,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q47" id="q47_3" value="3" required>
-                    <label class="form-check-label" for="q47_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q47_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q47" id="q47_4" value="2" required>
@@ -3251,7 +3251,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q93" id="q93_3" value="3" required>
-                    <label class="form-check-label" for="q93_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q93_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q93" id="q93_4" value="2" required>
@@ -3281,7 +3281,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q6" id="q6_3" value="3" required>
-                    <label class="form-check-label" for="q6_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q6_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q6" id="q6_4" value="2" required>
@@ -3311,7 +3311,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q58" id="q58_3" value="3" required>
-                    <label class="form-check-label" for="q58_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q58_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q58" id="q58_4" value="2" required>
@@ -3341,7 +3341,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q90" id="q90_3" value="3" required>
-                    <label class="form-check-label" for="q90_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q90_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q90" id="q90_4" value="2" required>
@@ -3371,7 +3371,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q57" id="q57_3" value="3" required>
-                    <label class="form-check-label" for="q57_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q57_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q57" id="q57_4" value="2" required>
@@ -3401,7 +3401,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q30" id="q30_3" value="3" required>
-                    <label class="form-check-label" for="q30_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q30_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q30" id="q30_4" value="2" required>
@@ -3431,7 +3431,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q1" id="q1_3" value="3" required>
-                    <label class="form-check-label" for="q1_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q1_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q1" id="q1_4" value="2" required>
@@ -3461,7 +3461,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q111" id="q111_3" value="3" required>
-                    <label class="form-check-label" for="q111_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q111_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q111" id="q111_4" value="2" required>
@@ -3491,7 +3491,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q84" id="q84_3" value="3" required>
-                    <label class="form-check-label" for="q84_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q84_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q84" id="q84_4" value="2" required>
@@ -3521,7 +3521,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q88" id="q88_3" value="3" required>
-                    <label class="form-check-label" for="q88_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q88_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q88" id="q88_4" value="2" required>
@@ -3551,7 +3551,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q8" id="q8_3" value="3" required>
-                    <label class="form-check-label" for="q8_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q8_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q8" id="q8_4" value="2" required>
@@ -3581,7 +3581,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q104" id="q104_3" value="3" required>
-                    <label class="form-check-label" for="q104_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q104_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q104" id="q104_4" value="2" required>
@@ -3611,7 +3611,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q45" id="q45_3" value="3" required>
-                    <label class="form-check-label" for="q45_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q45_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q45" id="q45_4" value="2" required>
@@ -3641,7 +3641,7 @@
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q105" id="q105_3" value="3" required>
-                    <label class="form-check-label" for="q105_3">2（Bình thường）</label>
+                    <label class="form-check-label" for="q105_3">3（Bình thường）</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="q105" id="q105_4" value="2" required>
